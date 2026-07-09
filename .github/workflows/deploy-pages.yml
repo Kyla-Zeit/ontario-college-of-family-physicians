@@ -39,6 +39,10 @@ jobs:
       - name: Prepare static Pages artifact
         run: |
           cp dist/index.html dist/404.html
+          for route in about advocacy connect events leadership news practice-supports; do
+            mkdir -p "dist/$route"
+            cp dist/index.html "dist/$route/index.html"
+          done
           touch dist/.nojekyll
 
       - name: Configure Pages
