@@ -1,2 +1,4 @@
 User-agent: *
 Allow: /
+
+Sitemap: https://kyla-zeit.github.io/ontario-college-of-family-physicians/sitemap.xml

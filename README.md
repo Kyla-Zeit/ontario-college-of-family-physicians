@@ -1,5 +1,9 @@
 # OCFP Website Redesign
 
+Live site:
+
+https://kyla-zeit.github.io/ontario-college-of-family-physicians/
+
 Open this folder in VS Code, then run:
 
 ```bash
@@ -13,6 +17,7 @@ Useful commands:
 
 ```bash
 npm run build
+npm run build:pages
 npm run preview
 ```
 
