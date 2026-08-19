@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760" role="img" aria-labelledby="title desc">
+  <title id="title">OCFP advocacy redesign preview</title>
+  <desc id="desc">Source-faithful portfolio visualization of the OCFP advocacy page with campaign cards.</desc>
+  <rect width="1200" height="760" fill="#fff"/>
+  <text x="72" y="86" font-family="Inter,Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="1.7" fill="#38aeb7">ADVOCACY</text>
+  <text x="72" y="160" font-family="Georgia,serif" font-size="58" font-weight="700" fill="#17113f">Strengthening Primary Care</text>
+  <text x="72" y="225" font-family="Georgia,serif" font-size="58" font-weight="700" fill="#17113f">in Ontario.</text>
+  <text x="72" y="274" font-family="Inter,Arial,sans-serif" font-size="17" fill="#6b6978">Policy priorities organized around the technology, infrastructure, workforce,</text>
+  <text x="72" y="300" font-family="Inter,Arial,sans-serif" font-size="17" fill="#6b6978">and care teams family physicians need to support Ontarians.</text>
+
+  <g font-family="Inter,Arial,sans-serif">
+    <rect x="72" y="355" width="500" height="160" rx="18" fill="#fff" stroke="#dedde5" stroke-width="2"/>
+    <rect x="72" y="355" width="6" height="160" rx="3" fill="#38aeb7"/>
+    <text x="104" y="393" font-size="11" font-weight="700" letter-spacing="1.4" fill="#38aeb7">01 - TECHNOLOGY</text>
+    <text x="104" y="432" font-family="Georgia,serif" font-size="27" font-weight="700" fill="#17113f">Smarter, More Efficient Workflows</text>
+    <text x="104" y="466" font-size="14" fill="#686775">Centralized intake, referral, digital health, and AI strategy</text>
+    <text x="104" y="489" font-size="14" fill="#686775">built around family physician workflows.</text>
+
+    <rect x="628" y="355" width="500" height="160" rx="18" fill="#fff" stroke="#dedde5" stroke-width="2"/>
+    <rect x="628" y="355" width="6" height="160" rx="3" fill="#c62c84"/>
+    <text x="660" y="393" font-size="11" font-weight="700" letter-spacing="1.4" fill="#c62c84">02 - INFRASTRUCTURE</text>
+    <text x="660" y="432" font-family="Georgia,serif" font-size="27" font-weight="700" fill="#17113f">Building Better, Connected Care</text>
+    <text x="660" y="466" font-size="14" fill="#686775">Integrated EMRs, portable records, rural connectivity,</text>
+    <text x="660" y="489" font-size="14" fill="#686775">IT support, training, and security.</text>
+
+    <rect x="72" y="545" width="500" height="160" rx="18" fill="#fff" stroke="#dedde5" stroke-width="2"/>
+    <rect x="72" y="545" width="6" height="160" rx="3" fill="#17113f"/>
+    <text x="104" y="583" font-size="11" font-weight="700" letter-spacing="1.4" fill="#17113f">03 - WORKFORCE</text>
+    <text x="104" y="622" font-family="Georgia,serif" font-size="27" font-weight="700" fill="#17113f">Making Family Medicine Attractive</text>
+    <text x="104" y="656" font-size="14" fill="#686775">Support for digital infrastructure, allied health capacity,</text>
+    <text x="104" y="679" font-size="14" fill="#686775">and physician-led change management.</text>
+
+    <rect x="628" y="545" width="500" height="160" rx="18" fill="#fff" stroke="#dedde5" stroke-width="2"/>
+    <rect x="628" y="545" width="6" height="160" rx="3" fill="#38aeb7"/>
+    <text x="660" y="583" font-size="11" font-weight="700" letter-spacing="1.4" fill="#38aeb7">04 - TEAMS</text>
+    <text x="660" y="622" font-family="Georgia,serif" font-size="27" font-weight="700" fill="#17113f">Meeting Needs of Patients &amp; FPs</text>
+    <text x="660" y="656" font-size="14" fill="#686775">Team-based care, reduced administrative burden, and</text>
+    <text x="660" y="679" font-size="14" fill="#686775">fewer barriers to clinical delegation.</text>
+  </g>
+</svg>
