@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760" role="img" aria-labelledby="title desc">
+  <title id="title">OCFP Resource Hub redesign preview</title>
+  <desc id="desc">Source-faithful visualization of the searchable and filterable OCFP practice supports resource hub.</desc>
+  <defs><filter id="shadow"><feDropShadow dx="0" dy="14" stdDeviation="16" flood-opacity=".14"/></filter></defs>
+  <rect width="1200" height="760" fill="#fff"/>
+  <rect width="1200" height="300" fill="#17113f"/>
+  <text x="70" y="72" font-family="Inter,Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="1.6" fill="#9de1e2">PRACTICE SUPPORTS &amp; CONTINUING EDUCATION</text>
+  <text x="70" y="145" font-family="Georgia,serif" font-size="64" font-weight="700" fill="#fff">The Resource Hub.</text>
+  <text x="70" y="194" font-family="Inter,Arial,sans-serif" font-size="17" fill="#c9c7d8">Session materials, recordings, clinical tools, and knowledge translation</text>
+  <text x="70" y="220" font-family="Inter,Arial,sans-serif" font-size="17" fill="#c9c7d8">resources searchable by topic, format, and audience.</text>
+
+  <g filter="url(#shadow)">
+    <rect x="70" y="248" width="1060" height="218" rx="18" fill="#fff" stroke="#e9e8ef"/>
+    <text x="105" y="295" font-family="Inter,Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="1.4" fill="#40aeb7">SEARCH RESOURCES</text>
+    <text x="105" y="340" font-family="Georgia,serif" font-size="28" fill="#7a7887">mental health, LTC, exam prep...</text>
+    <line x1="105" y1="358" x2="1095" y2="358" stroke="#d9d8df"/>
+    <text x="105" y="395" font-family="Inter,Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="1.3" fill="#666574">FORMAT</text>
+    <g font-family="Inter,Arial,sans-serif" font-size="11">
+      <rect x="105" y="412" width="64" height="30" rx="15" fill="#17113f"/><text x="137" y="432" text-anchor="middle" fill="#fff">All</text>
+      <rect x="178" y="412" width="78" height="30" rx="15" fill="#fff" stroke="#dedde5"/><text x="217" y="432" text-anchor="middle" fill="#555464">Webinar</text>
+      <rect x="265" y="412" width="72" height="30" rx="15" fill="#fff" stroke="#dedde5"/><text x="301" y="432" text-anchor="middle" fill="#555464">Toolkit</text>
+      <rect x="346" y="412" width="82" height="30" rx="15" fill="#fff" stroke="#dedde5"/><text x="387" y="432" text-anchor="middle" fill="#555464">Recording</text>
+      <rect x="437" y="412" width="62" height="30" rx="15" fill="#fff" stroke="#dedde5"/><text x="468" y="432" text-anchor="middle" fill="#555464">Guide</text>
+    </g>
+    <text x="655" y="395" font-family="Inter,Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="1.3" fill="#666574">TOPIC</text>
+    <g font-family="Inter,Arial,sans-serif" font-size="11">
+      <rect x="655" y="412" width="64" height="30" rx="15" fill="#17113f"/><text x="687" y="432" text-anchor="middle" fill="#fff">All</text>
+      <rect x="728" y="412" width="112" height="30" rx="15" fill="#fff" stroke="#dedde5"/><text x="784" y="432" text-anchor="middle" fill="#555464">Mental Health</text>
+      <rect x="849" y="412" width="60" height="30" rx="15" fill="#fff" stroke="#dedde5"/><text x="879" y="432" text-anchor="middle" fill="#555464">LTC</text>
+      <rect x="918" y="412" width="94" height="30" rx="15" fill="#fff" stroke="#dedde5"/><text x="965" y="432" text-anchor="middle" fill="#555464">Leadership</text>
+    </g>
+  </g>
+
+  <text x="70" y="520" font-family="Inter,Arial,sans-serif" font-size="13" fill="#777685">9 resources</text>
+  <text x="1030" y="520" font-family="Inter,Arial,sans-serif" font-size="13" fill="#777685">Most recent</text>
+
+  <g font-family="Inter,Arial,sans-serif">
+    <line x1="70" y1="545" x2="1130" y2="545" stroke="#e3e2e8"/>
+    <text x="70" y="585" font-family="Georgia,serif" font-size="22" fill="#17113f">Children's Mental Health: Practical Frameworks</text>
+    <rect x="815" y="562" width="84" height="28" rx="14" fill="#dff5f3"/><text x="857" y="581" text-anchor="middle" font-size="11" fill="#17113f">Webinar</text>
+    <rect x="910" y="562" width="112" height="28" rx="14" fill="#f2f1f5"/><text x="966" y="581" text-anchor="middle" font-size="11" fill="#555464">Mental Health</text>
+    <rect x="1033" y="562" width="80" height="28" rx="14" fill="#f2f1f5"/><text x="1073" y="581" text-anchor="middle" font-size="11" fill="#555464">Physicians</text>
+    <text x="70" y="610" font-size="11" fill="#8a8996">Updated Jun 2026</text>
+    <line x1="70" y1="630" x2="1130" y2="630" stroke="#e3e2e8"/>
+
+    <text x="70" y="670" font-family="Georgia,serif" font-size="22" fill="#17113f">Osteoporosis &amp; Fracture Prevention Toolkit</text>
+    <rect x="815" y="647" width="84" height="28" rx="14" fill="#dff5f3"/><text x="857" y="666" text-anchor="middle" font-size="11" fill="#17113f">Toolkit</text>
+    <rect x="910" y="647" width="70" height="28" rx="14" fill="#f2f1f5"/><text x="945" y="666" text-anchor="middle" font-size="11" fill="#555464">LTC</text>
+    <rect x="991" y="647" width="66" height="28" rx="14" fill="#f2f1f5"/><text x="1024" y="666" text-anchor="middle" font-size="11" fill="#555464">All</text>
+    <text x="70" y="695" font-size="11" fill="#8a8996">Updated May 2026</text>
+    <line x1="70" y1="715" x2="1130" y2="715" stroke="#e3e2e8"/>
+  </g>
+</svg>
