@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760" role="img" aria-labelledby="title desc">
+  <title id="title">OCFP events redesign preview</title>
+  <desc id="desc">Source-faithful portfolio visualization of the OCFP events listing page.</desc>
+  <rect width="1200" height="760" fill="#fff"/>
+  <text x="72" y="88" font-family="Inter,Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="1.7" fill="#38aeb7">UPCOMING EVENTS</text>
+  <text x="72" y="160" font-family="Georgia,serif" font-size="56" font-weight="700" fill="#17113f">Workshops, webinars, and</text>
+  <text x="72" y="224" font-family="Georgia,serif" font-size="56" font-weight="700" fill="#17113f">Mainpro+ certified events.</text>
+
+  <g font-family="Inter,Arial,sans-serif">
+    <line x1="72" y1="282" x2="1128" y2="282" stroke="#dedde5"/>
+    <text x="72" y="330" font-size="11" font-weight="700" letter-spacing="1.1" fill="#38aeb7">WED · JUL 15 · 9:00 AM EDT</text>
+    <text x="310" y="326" font-family="Georgia,serif" font-size="25" font-weight="700" fill="#17113f">Osteoporosis and Fracture Prevention Workshop</text>
+    <text x="310" y="356" font-size="14" fill="#70707c">Updated clinical-practice guidance for prevention and management.</text>
+    <rect x="964" y="306" width="124" height="32" rx="16" fill="#dff5f3"/>
+    <text x="1026" y="327" text-anchor="middle" font-size="11" font-weight="700" fill="#17113f">MAINPRO+ 3.0</text>
+    <text x="1110" y="332" font-size="25" fill="#38aeb7">→</text>
+    <line x1="72" y1="390" x2="1128" y2="390" stroke="#dedde5"/>
+
+    <text x="72" y="438" font-size="11" font-weight="700" letter-spacing="1.1" fill="#38aeb7">WED · JUL 22 · 8:00 AM EDT</text>
+    <text x="310" y="434" font-family="Georgia,serif" font-size="25" font-weight="700" fill="#17113f">ADHD in Primary Care: Meeting Growing Demand</text>
+    <text x="310" y="464" font-size="14" fill="#70707c">Practical tools for assessment, diagnosis, and ongoing primary-care support.</text>
+    <rect x="964" y="414" width="124" height="32" rx="16" fill="#dff5f3"/>
+    <text x="1026" y="435" text-anchor="middle" font-size="11" font-weight="700" fill="#17113f">MAINPRO+ 1.5</text>
+    <text x="1110" y="440" font-size="25" fill="#38aeb7">→</text>
+    <line x1="72" y1="498" x2="1128" y2="498" stroke="#dedde5"/>
+
+    <text x="72" y="546" font-size="11" font-weight="700" letter-spacing="1.1" fill="#38aeb7">SAT · AUG 22 · 8:00 AM EDT</text>
+    <text x="310" y="542" font-family="Georgia,serif" font-size="25" font-weight="700" fill="#17113f">CFPC Exam Orientation Workshop</text>
+    <text x="310" y="572" font-size="14" fill="#70707c">An introduction to certification-exam components for residents.</text>
+    <rect x="974" y="522" width="114" height="32" rx="16" fill="#f5e4f0"/>
+    <text x="1031" y="543" text-anchor="middle" font-size="11" font-weight="700" fill="#8a205f">FOR RESIDENTS</text>
+    <text x="1110" y="548" font-size="25" fill="#38aeb7">→</text>
+    <line x1="72" y1="606" x2="1128" y2="606" stroke="#dedde5"/>
+
+    <text x="72" y="654" font-size="11" font-weight="700" letter-spacing="1.1" fill="#38aeb7">THU · AUG 27 · 6:00 PM EDT</text>
+    <text x="310" y="650" font-family="Georgia,serif" font-size="25" font-weight="700" fill="#17113f">OCFP Ask Me Anything: Wellness in Family Medicine</text>
+    <text x="310" y="680" font-size="14" fill="#70707c">Career pathways, wellness, transition to practice, and physician Q&amp;A.</text>
+    <rect x="1012" y="630" width="76" height="32" rx="16" fill="#f1f0f5"/>
+    <text x="1050" y="651" text-anchor="middle" font-size="11" font-weight="700" fill="#17113f">AMA</text>
+    <text x="1110" y="656" font-size="25" fill="#38aeb7">→</text>
+    <line x1="72" y1="714" x2="1128" y2="714" stroke="#dedde5"/>
+  </g>
+</svg>
