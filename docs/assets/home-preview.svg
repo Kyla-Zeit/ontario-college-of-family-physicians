@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760" role="img" aria-labelledby="title desc">
+  <title id="title">OCFP homepage redesign preview</title>
+  <desc id="desc">Source-faithful portfolio visualization of the Ontario College of Family Physicians redesign homepage.</desc>
+  <defs>
+    <linearGradient id="hero" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#17113f"/>
+      <stop offset="1" stop-color="#282263"/>
+    </linearGradient>
+    <linearGradient id="photo" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#d8f4f3"/>
+      <stop offset="1" stop-color="#58c3c8"/>
+    </linearGradient>
+    <filter id="shadow"><feDropShadow dx="0" dy="16" stdDeviation="18" flood-opacity=".16"/></filter>
+  </defs>
+  <rect width="1200" height="760" fill="#ffffff"/>
+  <rect x="0" y="0" width="1200" height="78" fill="#ffffff"/>
+  <text x="60" y="48" font-family="Inter,Arial,sans-serif" font-size="20" font-weight="700" fill="#17113f">OCFP</text>
+  <text x="120" y="48" font-family="Inter,Arial,sans-serif" font-size="13" fill="#5b5a6d">Ontario College of Family Physicians</text>
+  <text x="775" y="48" font-family="Inter,Arial,sans-serif" font-size="13" fill="#17113f">Practice Supports</text>
+  <text x="908" y="48" font-family="Inter,Arial,sans-serif" font-size="13" fill="#17113f">Advocacy</text>
+  <text x="986" y="48" font-family="Inter,Arial,sans-serif" font-size="13" fill="#17113f">Events</text>
+  <rect x="1055" y="25" width="92" height="34" rx="3" fill="#c62c84"/>
+  <text x="1101" y="47" text-anchor="middle" font-family="Inter,Arial,sans-serif" font-size="11" font-weight="700" fill="#fff">MEMBER</text>
+
+  <rect x="0" y="78" width="1200" height="470" fill="#fbfbfd"/>
+  <polygon points="820,78 1200,78 1200,548 930,548" fill="#f3f3f8"/>
+  <rect x="62" y="124" width="34" height="2" fill="#40b9c2"/>
+  <text x="108" y="131" font-family="Inter,Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="1.4" fill="#2aa2ad">THE ONTARIO COLLEGE OF FAMILY PHYSICIANS</text>
+  <text x="62" y="212" font-family="Georgia,serif" font-size="63" font-weight="700" fill="#17113f">Advancing</text>
+  <text x="62" y="282" font-family="Georgia,serif" font-size="63" font-style="italic" fill="#32aeb7">family medicine</text>
+  <text x="62" y="352" font-family="Georgia,serif" font-size="63" font-weight="700" fill="#17113f">in Ontario.</text>
+  <text x="62" y="400" font-family="Inter,Arial,sans-serif" font-size="17" fill="#6b6978">Member resources, Mainpro+ learning, clinical supports,</text>
+  <text x="62" y="426" font-family="Inter,Arial,sans-serif" font-size="17" fill="#6b6978">advocacy, and peer connection in one clear experience.</text>
+  <rect x="62" y="466" width="158" height="50" rx="3" fill="#17113f"/>
+  <text x="141" y="497" text-anchor="middle" font-family="Inter,Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="1" fill="#fff">EXPLORE MAINPRO+</text>
+  <rect x="232" y="466" width="150" height="50" rx="3" fill="none" stroke="#17113f" stroke-width="2"/>
+  <text x="307" y="497" text-anchor="middle" font-family="Inter,Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="1" fill="#17113f">BECOME A MEMBER</text>
+
+  <g filter="url(#shadow)">
+    <rect x="764" y="110" width="330" height="410" rx="10" fill="url(#photo)"/>
+    <circle cx="930" cy="245" r="72" fill="#ffffff" opacity=".65"/>
+    <path d="M820 470 C850 360 1012 355 1042 470" fill="#17113f" opacity=".72"/>
+    <path d="M895 280 C902 328 958 328 966 280" fill="#ffffff" opacity=".7"/>
+  </g>
+  <path d="M1072 100 h55 v55" fill="none" stroke="#c62c84" stroke-width="7"/>
+  <path d="M742 486 v44 h44" fill="none" stroke="#40b9c2" stroke-width="5"/>
+
+  <g filter="url(#shadow)">
+    <rect x="62" y="520" width="245" height="152" fill="#fff"/>
+    <rect x="62" y="668" width="245" height="4" fill="#40b9c2"/>
+    <text x="86" y="578" font-family="Georgia,serif" font-size="38" font-weight="700" fill="#17113f">18,000+</text>
+    <text x="86" y="608" font-family="Inter,Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="1" fill="#656477">FAMILY PHYSICIANS</text>
+
+    <rect x="327" y="536" width="245" height="152" fill="#17113f"/>
+    <text x="351" y="594" font-family="Georgia,serif" font-size="38" font-weight="700" fill="#fff">72</text>
+    <text x="351" y="624" font-family="Inter,Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="1" fill="#d8d6e5">YEARS ADVANCING CARE</text>
+
+    <rect x="592" y="520" width="245" height="152" fill="#fff"/>
+    <rect x="592" y="668" width="245" height="4" fill="#c62c84"/>
+    <text x="616" y="578" font-family="Georgia,serif" font-size="38" font-weight="700" fill="#17113f">300+</text>
+    <text x="616" y="608" font-family="Inter,Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="1" fill="#656477">CPD SESSIONS / YEAR</text>
+
+    <rect x="857" y="536" width="245" height="152" fill="#40b9c2"/>
+    <text x="881" y="594" font-family="Georgia,serif" font-size="35" font-weight="700" fill="#fff">AODA</text>
+    <text x="881" y="624" font-family="Inter,Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="1" fill="#fff">ACCESSIBLE DIRECTION</text>
+  </g>
+</svg>
